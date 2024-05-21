@@ -1,5 +1,5 @@
  <div align="center">
-  <img src="https://github.com/yazansedih/DrawSmileyEmoji/assets/137224224/54e19e41-9391-4613-974f-9553ccef5a34" width=500px/>
+  <img src="https://github.com/yazansedih/DrawSmileyEmoji/assets/137224224/e91eee2f-c921-49a7-8d10-06fb7f4c1902" width=500px/>
   <br />
   <br />
 
