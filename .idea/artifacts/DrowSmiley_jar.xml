@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DrowSmiley:jar">
+    <output-path>$USER_HOME$/Desktop/DrowSmiley_jar</output-path>
+    <root id="archive" name="DrowSmiley.jar">
+      <element id="module-output" name="DrowSmiley" />
+    </root>
+  </artifact>
+</component>
